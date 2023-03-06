@@ -8,3 +8,5 @@ def convert_to_floats(matrix):
         for j in range(len(matrix[i])):
             matrix[i][j] = float(matrix[i][j])
     return matrix
+
+![image](https://user-images.githubusercontent.com/125186303/223066010-6902b111-b226-43ed-b03b-0665ddf6d33c.png)
